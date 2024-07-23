@@ -1,12 +1,11 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/krAZytei)
 Please go under edit and edit this file as needed for your project
 
-# Team Name - Spirit of IOT
-# Project Group - 051
-### Group Leader - IT20709020 - Kusalani Thennakoon (Kusalani)
-### Member 2 - IT19201542 - Nuvindu Senarathne (NuvinduSenarathne)
-### Member 3 - IT20085094 - Kanjana Epitawatta (kanjanaepitawatta)
-### Member 4 - IT20071202 - Devmini Poornima (DevminiPoornima)
+# Team Name - Team forcasting
+# Project Group - 07
+### Group Leader - 20BCS3862 - Naveen reddy
+### Member 2 - 20BCS3880- Ravindra reddy 
+
 
 #### Brief Description of your Solution - 
 
